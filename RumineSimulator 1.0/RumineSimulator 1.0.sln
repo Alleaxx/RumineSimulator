@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumineSimulator 1.0", "RumineSimulator 1.0.csproj", "{5CBF46DF-F6FD-40D4-9338-A1851C9D2F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumineSimulatorReforged", "..\RumineSimulatorReforged\RumineSimulatorReforged.csproj", "{3DF5E74E-2907-44C1-9269-9116016461D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CBF46DF-F6FD-40D4-9338-A1851C9D2F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBF46DF-F6FD-40D4-9338-A1851C9D2F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBF46DF-F6FD-40D4-9338-A1851C9D2F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBF46DF-F6FD-40D4-9338-A1851C9D2F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF5E74E-2907-44C1-9269-9116016461D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF5E74E-2907-44C1-9269-9116016461D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF5E74E-2907-44C1-9269-9116016461D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF5E74E-2907-44C1-9269-9116016461D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE962D2-AC68-4906-B23E-D162FD398C93}
+	EndGlobalSection
+EndGlobal
